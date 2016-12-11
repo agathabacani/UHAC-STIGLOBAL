@@ -1,0 +1,8 @@
+applications:
+- path: target/uhac-stiglobal.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: uhac-stiglobal
+  host: uhac-stiglobal
+  disk_quota: 1024M

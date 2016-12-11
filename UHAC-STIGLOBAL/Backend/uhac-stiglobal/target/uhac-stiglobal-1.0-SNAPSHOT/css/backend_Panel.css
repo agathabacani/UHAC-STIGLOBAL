@@ -1,0 +1,119 @@
+.headformmain{
+    background-color:#222222;
+    text-align: left;
+    width:100%;
+    font-weight: normal;
+    color:#FFFFFF;
+    border-bottom:thin solid;
+    font-size: 18px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left: 10px;
+    border-bottom-color: black;
+    position: fixed;
+    z-index: 888;
+     -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+ 
+    }
+#headBar{
+    background-color: #F1F1F4;
+    position:fixed;
+    z-index: 900;
+    width:100%;
+    margin-top: 42px;
+    padding-left:10px;
+    font-size:13px;
+    padding-bottom: 2px;
+    padding-top:2px;
+     -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+}
+body{
+    margin:0px;
+    font-family: Century Gothic, sans-serif;
+}  
+#adminpanel{
+    border: none;
+    background-color: #F1F1F4;
+}
+#adminpanel:hover {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto;
+}
+.navigation{
+    
+    width: 229px;
+    height: 700px;
+    margin-top: 67px;
+    position:absolute;
+    background: #E0E0E3  url(../img/sidebar.png) ;
+    font-size:12px;
+    
+    box-shadow: 5px 0 5px -2px #888;
+    text-shadow: 0 1px 0 #fff;
+    font-size: 13px;
+    
+   
+ }
+ a{
+   
+    text-decoration: none;
+    color: #666666;
+    font-family: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+    font-size: 12px;
+   
+}
+#adminpanel{
+    border: none;
+    background-color: #F1F1F4;
+}
+#adminpanel:hover {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto;
+}
+a:hover {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto;
+}
+#summary{
+    position:relative;
+    top:100px;
+    left:300px;
+    
+    
+}
+.tablesorter {
+
+width:980px;
+margin-left:10px;
+border:1px solid;
+margin-top:5px;    
+border-color: rgb(155, 160, 175);
+border-radius: 7px;
+font-size: 14px;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+     
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+   
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+#bg{
+    
+    
+}
